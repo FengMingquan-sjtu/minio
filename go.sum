@@ -152,8 +152,8 @@ github.com/DataDog/sketches-go v1.0.0/go.mod h1:O+XkJHWk9w4hDwY2ZUDU31ZC9sNYlYo8
 github.com/DataDog/zstd v1.3.5/go.mod h1:1jcaCB/ufaK+sKp1NBhlGmpz41jOoPQ35bpF36t7BBo=
 github.com/Djarvur/go-err113 v0.0.0-20200410182137-af658d038157/go.mod h1:4UJr5HIiMZrwgkSPdsjy2uOQExX/WEILpIrO9UPGuXs=
 github.com/Djarvur/go-err113 v0.1.0/go.mod h1:4UJr5HIiMZrwgkSPdsjy2uOQExX/WEILpIrO9UPGuXs=
-github.com/FengMingquan-sjtu/xrs v0.1.0 h1:wHTLUuOAiZQR/zrJJsfw7/mW7P0wayVUQ4I6JR2Xxj4=
-github.com/FengMingquan-sjtu/xrs v0.1.0/go.mod h1:j3B2kIdu6M+pCHWOZv6QmgQ+wD5suuF5S2ME1JV75kg=
+github.com/FengMingquan-sjtu/sxor v0.1.1 h1:pNJv3p0Yva4WPk1hKxfle7v9FI6Xfmn5jYudreT4Rds=
+github.com/FengMingquan-sjtu/sxor v0.1.1/go.mod h1:usNTQY6OJDJFx5o7ZILcT3wRB9TmSeGkwvcuKU/UMxw=
 github.com/GoogleCloudPlatform/cloudsql-proxy v0.0.0-20191009163259-e802c2cb94ae/go.mod h1:mjwGPas4yKduTyubHvD1Atl9r1rUq8DfVy+gkVvZ+oo=
 github.com/GoogleCloudPlatform/k8s-cloud-provider v0.0.0-20190822182118-27a4ced34534/go.mod h1:iroGtC8B3tQiqtds1l+mgk/BBOrxbqjH+eUfFQYRc14=
 github.com/Masterminds/semver v1.5.0/go.mod h1:MB6lktGJrhw8PrUyiEoblNEGEQ+RzHPF078ddwwvV3Y=
@@ -1621,12 +1621,6 @@ github.com/subosito/gotenv v1.2.0/go.mod h1:N0PQaV/YGNqwC0u51sEeR/aUtSLEXKX9iv69
 github.com/syndtr/goleveldb v1.0.0/go.mod h1:ZVVdQEZoIme9iO1Ch2Jdy24qqXrMMOU6lpPAyBWyWuQ=
 github.com/tdakkota/asciicheck v0.0.0-20200416190851-d7f85be797a2/go.mod h1:yHp0ai0Z9gUljN3o0xMhYJnH/IcvkdTBOX2fmJ93JEM=
 github.com/tdakkota/asciicheck v0.0.0-20200416200610-e657995f937b/go.mod h1:yHp0ai0Z9gUljN3o0xMhYJnH/IcvkdTBOX2fmJ93JEM=
-github.com/templexxx/cpu v0.0.1 h1:hY4WdLOgKdc8y13EYklu9OUTXik80BkxHoWvTO6MQQY=
-github.com/templexxx/cpu v0.0.1/go.mod h1:w7Tb+7qgcAlIyX4NhLuDKt78AHA5SzPmq0Wj6HiEnnk=
-github.com/templexxx/reedsolomon v1.1.3 h1:UJZtgOAcp8Ldl9Qp9/8YIPHfW58vsUrPHcJYv15Na50=
-github.com/templexxx/reedsolomon v1.1.3/go.mod h1:lCyQlNrc8GTWsFE47kSLkJJvsGL8Lo5pfUDPiJZMm3o=
-github.com/templexxx/xorsimd v0.1.1 h1:Y4e8YgMx/4xRJO4G6lq0bSswfDCxbIrGu7KqM2ET524=
-github.com/templexxx/xorsimd v0.1.1/go.mod h1:W+ffZz8jJMH2SXwuKu9WhygqBMbFnp14G2fqEr8qaNo=
 github.com/tetafro/godot v0.3.7/go.mod h1:/7NLHhv08H1+8DNj0MElpAACw1ajsCuf3TKNQxA5S+0=
 github.com/tetafro/godot v0.4.2/go.mod h1:/7NLHhv08H1+8DNj0MElpAACw1ajsCuf3TKNQxA5S+0=
 github.com/tidwall/btree v0.3.0/go.mod h1:huei1BkDWJ3/sLXmO+bsCNELL+Bp2Kks9OLyQFkzvA8=

@@ -2,11 +2,10 @@ module github.com/minio/minio
 
 go 1.17
 
-
 require (
 	cloud.google.com/go/storage v1.10.0
 	github.com/Azure/azure-storage-blob-go v0.10.0
-	github.com/FengMingquan-sjtu/sxor v0.0.1
+	github.com/FengMingquan-sjtu/sxor v0.1.1
 	github.com/Shopify/sarama v1.30.0
 	github.com/alecthomas/participle v0.2.1
 	github.com/bcicen/jstream v1.0.1
@@ -195,9 +194,6 @@ require (
 	github.com/rogpeppe/go-internal v1.8.1 // indirect
 	github.com/rs/xid v1.4.0 // indirect
 	github.com/sirupsen/logrus v1.8.1 // indirect
-	github.com/templexxx/cpu v0.0.1 // indirect
-	github.com/templexxx/reedsolomon v1.1.3 // indirect
-	github.com/templexxx/xorsimd v0.1.1 // indirect
 	github.com/tidwall/gjson v1.14.0 // indirect
 	github.com/tidwall/match v1.1.1 // indirect
 	github.com/tidwall/pretty v1.2.0 // indirect
