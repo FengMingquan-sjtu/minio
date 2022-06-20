@@ -2,12 +2,11 @@ module github.com/minio/minio
 
 go 1.17
 
-replace github.com/FengMingquan-sjtu/xrs  => /home/fengmingquan/codes/xrs
 
 require (
 	cloud.google.com/go/storage v1.10.0
 	github.com/Azure/azure-storage-blob-go v0.10.0
-	github.com/FengMingquan-sjtu/xrs v0.1.0
+	github.com/FengMingquan-sjtu/sxor v0.0.1
 	github.com/Shopify/sarama v1.30.0
 	github.com/alecthomas/participle v0.2.1
 	github.com/bcicen/jstream v1.0.1
